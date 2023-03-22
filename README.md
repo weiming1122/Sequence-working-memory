@@ -1,4 +1,4 @@
-# sequence-working-memory
+# Sequence-working-memory
 
 Sequence working memory tasks are designed to assess an individual's ability to process and remember a series of stimuli presented over time.
 
